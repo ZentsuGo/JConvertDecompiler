@@ -12,3 +12,5 @@ Le projet est assez simple, composé d'une fenêtre il demande le repértoire de
 La décompilation se fait telle quelle : java bytecode -> code java
 
 Le décompilateur utilisé est procyon version 0.5.30.
+
+Le projet est réalisé en Java est n'est plus maintenu à jour depuis 2018.
