@@ -1,6 +1,10 @@
 # JConvertDecompiler
 
-JConvertDecompiler est un projet que j'ai crée en 2017-2018 dans un projet de reverse-engineering d'un logiciel.
+JConvertDecompiler est un projet très basique que j'ai crée en 2017-2018 dans un projet de reverse-engineering d'un logiciel.
+
+
+![alt text](https://github.com/zentsugo/JConvertDecompiler/blob/main/jcd.PNG?raw=true)
+
 
 Il m'a été nécessaire d'avoir un logiciel qui permettait de décompiler (binaire -> code (plus ou moins bien retraduit)) du code binaire
 en code Java (d'où le JConvertDecompiler) plus ou moins correspondant au code initial selon certaines règles.
